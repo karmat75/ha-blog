@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Willkommen
+date: 2022-12-24
 ---
 
