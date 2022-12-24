@@ -2,10 +2,10 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  max-width: 1200px; 
+  max-width: 1200px !important; 
 }
 
 section {
- max-width: 1200px;
- margin-top: inherit;
+ max-width: 1200px !important;
+ margin-top: inherit !important;
 }
